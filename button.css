@@ -1,0 +1,164 @@
+
+/* CSS */
+/* 
+.button-14 {
+  background-image: linear-gradient(#f7f8fa ,#e7e9ec);
+  border-color: #adb1b8 #a2a6ac #8d9096;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+  box-shadow: rgba(255,255,255,.6) 0 1px 0 inset;
+  box-sizing: border-box;
+  color: #0f1111;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",Arial,sans-serif;
+  font-size: 14px;
+  height: 29px;
+  font-size: 13px;
+  outline: 0;
+  overflow: hidden;
+  padding: 0 11px;
+  text-align: center;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+} */
+
+/* .button-14:active {
+  border-bottom-color: #a2a6ac;
+}
+
+.button-14:active:hover {
+  border-bottom-color: #a2a6ac;
+}
+
+.button-14:hover {
+  border-color: #a2a6ac #979aa1 #82858a;
+}
+
+.button-14:focus {
+  border-color: #ea2f7d;
+  box-shadow: rgba(228, 17, 137, 0.5) 0 0 3px 2px;
+  outline: 0;
+} */
+
+/* .button-15 {
+  
+  background-image: linear-gradient(#f7f8fa ,#e7e9ec);
+  border-color: #adb1b8 #a2a6ac #8d9096;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+  box-shadow: rgba(255,255,255,.6) 0 1px 0 inset;
+  box-sizing: border-box;
+  color: #0f1111;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",Arial,sans-serif;
+  font-size: 14px;
+  height: 29px;
+  font-size: 13px;
+  outline: 0;
+  overflow: hidden;
+  padding: 0 11px;
+  text-align: center;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+} */
+
+/* .button-15:active {
+  border-bottom-color: #a2a6ac;
+}
+
+.button-15:active:hover {
+  border-bottom-color: #a2a6ac;
+}
+
+.button-15:hover {
+  border-color: #a2a6ac #979aa1 #82858a;
+}
+
+.button-15:focus {
+  border-color: #ea2f7d;
+  box-shadow: rgba(228, 17, 137, 0.5) 0 0 3px 2px;
+  outline: 0;
+} */
+
+
+html{
+  font-family: 'Oswald', sans-serif;
+  background-color: darkgray;
+}
+h1{
+  font-size: 50px;
+  display: block;
+  position: absolute;
+}
+.app{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+
+}
+.container{
+  margin-top: 150px;
+}
+.button-15 {
+  position: absolute;
+  display: flex;
+  cursor: pointer;
+  margin: 0 10px;
+  outline: 0;
+  border: none;
+  padding: 0 56px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 7px;
+  background-color: #0070f3;
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+  box-shadow: 0 4px 14px 0 rgb(0 118 255 / 39%);
+  transition: background-color 0.2s ease,color 0.2s ease,box-shadow 0.2s ease;
+}
+button:hover {
+  background-color: rgba(0,118,255,0.9);
+  box-shadow: 0 6px 20px rgb(0 118 255 / 23%);
+}
+.button-14{
+  right: 50%;
+}
+.button-14{
+position: absolute;
+display: flex;
+cursor: pointer;
+margin: 0 10px;
+outline: 0;
+border: none;
+padding: 0 56px;
+height: 45px;
+line-height: 45px;
+border-radius: 7px;
+font-weight: 400;
+font-size: 16px;
+background: #fff;
+color: #696969;
+box-shadow: 0 4px 14px 0 rgb(0 0 0 / 10%);
+transition: background-color 0.2s ease,color 0.2s ease,box-shadow 0.2s ease;
+}
+.button-14:hover{
+    background-color: rgba(255,255,255,0.9);
+    box-shadow: 0 6px 20px rgb(93 93 93 / 23%);
+}
+
+
+
