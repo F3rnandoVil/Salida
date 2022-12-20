@@ -3,7 +3,7 @@ const but = document.querySelector('button.button-15');
 but.addEventListener("mouseover", mouseHover)
 
 function f1() {
-    alert("Ahueeevooo");
+    alert("Siiiiiuuuu");
 // let num = prompt("Cual es tu numero de telefono")
 // console.log(num)
 }
